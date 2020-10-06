@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/react-deploy/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-deploy/static/js/main.e5e6820d.chunk.js",
-    "main.js.map": "/react-deploy/static/js/main.e5e6820d.chunk.js.map",
+    "main.js": "/react-deploy/static/js/main.f389cb11.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.f389cb11.chunk.js.map",
     "runtime-main.js": "/react-deploy/static/js/runtime-main.3e11c617.js",
     "runtime-main.js.map": "/react-deploy/static/js/runtime-main.3e11c617.js.map",
     "static/css/2.871d2f4d.chunk.css": "/react-deploy/static/css/2.871d2f4d.chunk.css",
-    "static/js/2.2e5cfe97.chunk.js": "/react-deploy/static/js/2.2e5cfe97.chunk.js",
-    "static/js/2.2e5cfe97.chunk.js.map": "/react-deploy/static/js/2.2e5cfe97.chunk.js.map",
+    "static/js/2.93c060ec.chunk.js": "/react-deploy/static/js/2.93c060ec.chunk.js",
+    "static/js/2.93c060ec.chunk.js.map": "/react-deploy/static/js/2.93c060ec.chunk.js.map",
     "index.html": "/react-deploy/index.html",
-    "precache-manifest.68211b605a40e05cf7ecb9436efc4878.js": "/react-deploy/precache-manifest.68211b605a40e05cf7ecb9436efc4878.js",
+    "precache-manifest.e701254f5bf3856e8d6853f197f3c660.js": "/react-deploy/precache-manifest.e701254f5bf3856e8d6853f197f3c660.js",
     "service-worker.js": "/react-deploy/service-worker.js",
     "static/css/2.871d2f4d.chunk.css.map": "/react-deploy/static/css/2.871d2f4d.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/react-deploy/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.2e5cfe97.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.2e5cfe97.chunk.js.LICENSE.txt",
+    "static/js/2.93c060ec.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.93c060ec.chunk.js.LICENSE.txt",
     "static/media/armchair.svg": "/react-deploy/static/media/armchair.1023d40a.svg",
     "static/media/semantic.min.css": "/react-deploy/static/media/outline-icons.ef60a4f6.woff",
     "static/media/logo-ccb-light.png": "/react-deploy/static/media/logo-ccb-light.9de16f08.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.3e11c617.js",
     "static/css/2.871d2f4d.chunk.css",
-    "static/js/2.2e5cfe97.chunk.js",
+    "static/js/2.93c060ec.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.e5e6820d.chunk.js"
+    "static/js/main.f389cb11.chunk.js"
   ]
 }
