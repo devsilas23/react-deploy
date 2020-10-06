@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f3575542ee2cf9d799aa68dfcbb6c2f0",
+    "revision": "8514dd871ceb7baf4c563cbd13a262e7",
     "url": "/react-deploy/index.html"
   },
   {
-    "revision": "0015fed0379253336a20",
+    "revision": "c9bb4623102421122335",
     "url": "/react-deploy/static/css/2.871d2f4d.chunk.css"
   },
   {
-    "revision": "fffc63842c4fdddbafc1",
+    "revision": "aa8cf8d0983ee748c042",
     "url": "/react-deploy/static/css/main.5f361e03.chunk.css"
   },
   {
-    "revision": "0015fed0379253336a20",
-    "url": "/react-deploy/static/js/2.0db8a99d.chunk.js"
+    "revision": "c9bb4623102421122335",
+    "url": "/react-deploy/static/js/2.2e5cfe97.chunk.js"
   },
   {
-    "revision": "5ac48c47bb3912b14c2d8de4f56d5ae8",
-    "url": "/react-deploy/static/js/2.0db8a99d.chunk.js.LICENSE.txt"
+    "revision": "2089965cc3e0fbb1dda2d650d8277df4",
+    "url": "/react-deploy/static/js/2.2e5cfe97.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fffc63842c4fdddbafc1",
-    "url": "/react-deploy/static/js/main.d95a24ac.chunk.js"
+    "revision": "aa8cf8d0983ee748c042",
+    "url": "/react-deploy/static/js/main.e5e6820d.chunk.js"
   },
   {
     "revision": "9a6b4006b58ad85b50f6",
     "url": "/react-deploy/static/js/runtime-main.3e11c617.js"
+  },
+  {
+    "revision": "1023d40a63ceaef629cbded8c8e16dfc",
+    "url": "/react-deploy/static/media/armchair.1023d40a.svg"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
@@ -72,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-deploy/static/media/icons.faff9214.woff"
   },
   {
+    "revision": "9de16f089a7639eec7099fa9360d0c20",
+    "url": "/react-deploy/static/media/logo-ccb-light.9de16f08.png"
+  },
+  {
     "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
     "url": "/react-deploy/static/media/logo.5d5d9eef.svg"
   },
@@ -94,5 +102,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
     "url": "/react-deploy/static/media/outline-icons.ef60a4f6.woff"
+  },
+  {
+    "revision": "7d4e616e89841a6b1c669d1bfc3690fc",
+    "url": "/react-deploy/static/media/sintoma.7d4e616e.svg"
   }
 ]);
